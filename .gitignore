@@ -1,0 +1,17 @@
+*.[oa] # The files ending with o or a are not picked up
+*~ # All files ending with ~ are ignored
+(*) # this means all characters
+[abc] # matching any char inside backets -- here a, b, or c
+[0-9] # range to match -- here 0 thro 9
+a/**/z # to match nested directories -- here would match a/z, a/b/z, a/b/c/z
+# this is a comment
+*.a # no .a files
+!lib.a # but do track lib.a, even though you're ignoring .a files above
+/TODO # only ignore the TODO file in the current directory, not subdir/TODO
+build/ # ignore all files in the build/ directory
+doc/*.txt # ignore doc/notes.txt, but not doc/server/arch.txt
+
+
+
+
+

@@ -1,0 +1,2 @@
+trying to simulate M in modified but not staged git status -s
+
