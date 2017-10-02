@@ -7,3 +7,5 @@ ASDF - just entry
 adding 1 more line in linux! docker...
 
 MM possible in git status if staged, modified and staged again?
+
+adding 1 line for checking -am optin of git commit
