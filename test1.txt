@@ -9,3 +9,5 @@ adding 1 more line in linux! docker...
 MM possible in git status if staged, modified and staged again?
 
 adding 1 line for checking -am optin of git commit
+
+now putting in 1 more line for checking amend to commit (without a new commit!)
